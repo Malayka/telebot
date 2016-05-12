@@ -1,0 +1,13 @@
+enum34==1.1.4
+Flask==0.10.1
+future==0.15.2
+itsdangerous==0.24
+Jinja2==2.8
+MarkupSafe==0.23
+pyTelegramBotAPI==2.0.3
+python-telegram-bot==4.0.1
+requests==2.9.1
+six==1.10.0
+SQLAlchemy==1.0.12
+twx.botapi==2.1.0
+Werkzeug==0.11.9
